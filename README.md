@@ -3,8 +3,8 @@
 
 ## Eklenecekler
 
-[] Yapılmışlar işaretlenip veritabanına kayıt edilecek.
+- [ ] Yapılmışlar işaretlenip veritabanına kayıt edilecek.
 
-[] Kullanıcı paneli yapılacak.
+- [ ] Kullanıcı paneli yapılacak.
 
-[] Hatırlatma eklenecek.
+- [ ] Hatırlatma eklenecek.
